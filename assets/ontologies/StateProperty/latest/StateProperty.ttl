@@ -135,7 +135,7 @@
                                                             dct:title "Distribuzione RDF/XML dell'ontologia dei beni immobili dello Stato"@it ,
                                                                       "RDF/XML distribution of State-Owned Real Estate Assets Ontology"@en ;
                                                             dcat:accessURL <https://github.com/Agenzia-del-Demanio/NDC/tree/main/assets/ontologies/StateProperty/latest> ;
-                                                            dcat:downloadURL <https://raw.githubusercontent.com/Agenzia-del-Demanio/NDC/main/assets/ontologies/StateProperty/latest/StateProperty.rdf> .
+                                                            dcat:downloadURL <https://raw.githubusercontent.com/Agenzia-del-Demanio/NDC/main/assets/ontologies/StateProperty/latest/StateProperty.owl> .
  
  
                                                                 

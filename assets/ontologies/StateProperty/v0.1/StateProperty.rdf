@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://w3id.org/italia/onto/l0#"
-     xml:base="https://w3id.org/italia/onto/l0"
+<rdf:RDF xmlns="https://w3id.org/italia/real-estate/onto/StateProperty/"
+     xml:base="https://w3id.org/italia/real-estate/onto/StateProperty/"
      xmlns:admsapit="https://w3id.org/italia/onto/ADMS/"
      xmlns:l0="https://w3id.org/italia/onto/l0/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -17,7 +17,7 @@
      xmlns:dcat="http://www.w3.org/ns/dcat#"
      xmlns:prov="http://www.w3.org/ns/prov#"
      xmlns:foaf="http://xmlns.com/foaf/0.1/">
-    <owl:Ontology rdf:about="https://w3id.org/italia/onto/l0">
+    <owl:Ontology rdf:about="https://w3id.org/italia/real-estate/onto/StateProperty/">
         <owl:versionIRI rdf:resource="urn:absolute:0.1"/>
         <owl:imports rdf:resource="https://w3id.org/italia/onto/CLV/"/>
         <owl:imports rdf:resource="https://w3id.org/italia/onto/l0"/>
@@ -720,7 +720,7 @@ With regard to state-owned property (Article 822 of the Italian Civil Code), the
         <dct:title xml:lang="it">Distribuzione RDF/XML dell&apos;ontologia dei beni immobili dello Stato</dct:title>
         <dct:title xml:lang="en">RDF/XML distribution of State-Owned Real Estate Assets Ontology</dct:title>
         <dcat:accessURL rdf:resource="https://github.com/Agenzia-del-Demanio/NDC/tree/main/assets/ontologies/StateProperty/latest"/>
-        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/Agenzia-del-Demanio/NDC/main/assets/ontologies/StateProperty/latest/StateProperty.rdf"/>
+        <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/Agenzia-del-Demanio/NDC/main/assets/ontologies/StateProperty/latest/StateProperty.owl"/>
     </owl:NamedIndividual>
     
 
